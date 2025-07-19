@@ -50,7 +50,7 @@ p{
 .meetsimonchild{
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  align-items: center;
   height: 20rem;
   width: 50%;
   text-align: center;
